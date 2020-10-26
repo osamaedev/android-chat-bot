@@ -1,4 +1,6 @@
 package com.osama.chatbotbasicapp.data
 
-class Message {
+data class Message(val message: String, val id: String, val time: Long) {
+
+
 }

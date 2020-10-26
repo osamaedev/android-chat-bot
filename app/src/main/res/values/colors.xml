@@ -7,4 +7,8 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+
+    <color name="sender_bg_color">#A1CEFF</color>
+    <color name="receiver_bg_color">#FAD7B2</color>
 </resources>
